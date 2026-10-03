@@ -14,7 +14,6 @@
  
  -⚡ Fun fact I am funny
 
-mg src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 
  I am a passionate  fresher  web developer  skill in HTML, CSS, JavaScript, React js, Node.js and MongoDB 
  
