@@ -1,7 +1,10 @@
-                                                       💫  Hi 👋,I'm Omji Srivastav 
+                                                     
 
-                                                   A passionate frontend  Developer  form India     
+                                                
 
+
+  <h1 align="center">Hi 💫, I'm Omji srivastav</h1>
+  <h3 align="center">A passionate frontend developer from India</h3>
 
  -🌱 I’m currently Mern Stack
  
