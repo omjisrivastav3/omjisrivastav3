@@ -1,6 +1,6 @@
-                                                      <b>  💫  Hi 👋,I'm Omji Srivastav </b>
+                                                       💫  Hi 👋,I'm Omji Srivastav 
 
-                                              <b>     A passionate frontend  Developer  form India  </b>
+                                                   A passionate frontend  Developer  form India     
 
 
  -🌱 I’m currently Mern Stack
