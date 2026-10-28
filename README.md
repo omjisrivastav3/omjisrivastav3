@@ -5,8 +5,7 @@
 
   <h1 align="center">Hi 💫, I'm Omji Srivastav</h1>
   <h3 align="center">A passionate frontend developer from India</h3>
-  [![GitHub](https://img.shields.io/badge/GitHub-Omji Srivastav-181717?style=for-the-badge&logo=github)](https://github.com/Omji Srivastav)
-[![Profile Views](https://komarev.com/ghpvc/?username=OmjiSrivastav3&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge)](https://github.com/Omji Srivastav)
+
 
  -🌱 I’m currently Mern Stack
  
